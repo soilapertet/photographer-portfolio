@@ -25,3 +25,11 @@ body
   {
     background-image: linear-gradient(to bottom right,#42275a, #734b6d);
   }
+ul
+  {
+    font-size:30px;
+  }
+p
+  {
+    font-size:25px;
+  }

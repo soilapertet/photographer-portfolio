@@ -21,3 +21,7 @@ body
     background-image: linear-gradient(to bottom right, #141e30, #243b55);
     color: white;
   }
+.card
+  {
+    background-image: linear-gradient(to bottom right,#42275a, #734b6d);
+  }

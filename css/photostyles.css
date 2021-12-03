@@ -1,4 +1,7 @@
 img
   {
-    float: left;
+    width: 475px;
+    height:475px;
+    object-fit: cover;
+    text-align: center;
   }
